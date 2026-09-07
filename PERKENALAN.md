@@ -1,4 +1,4 @@
 NAMA: Fauzan Hasyim
 NRP: 5053251044
 
-halo
+halo ini merge conflict
